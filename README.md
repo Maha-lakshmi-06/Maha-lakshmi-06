@@ -55,7 +55,9 @@ I am eager to learn, grow, and contribute to real-world projects 💼✨
  
 
 ---
+##GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maha-lakshmi-06&show_icons=true&theme=tokyonight)
 ## 🌈 Let's Connect & Grow Together!
 
 If you're a recruiter, developer, or learner — feel free to connect with me 🤝  
